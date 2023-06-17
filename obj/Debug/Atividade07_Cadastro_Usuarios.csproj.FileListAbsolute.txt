@@ -1,0 +1,8 @@
+C:\Users\vitin\source\repos\Atividade07_Cadastro\obj\Debug\Atividade07_Cadastro_Usuarios.csproj.AssemblyReference.cache
+C:\Users\vitin\source\repos\Atividade07_Cadastro\obj\Debug\Atividade07_Cadastro_Usuarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\vitin\source\repos\Atividade07_Cadastro\obj\Debug\Atividade07_Cadastro_Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\vitin\source\repos\Atividade07_Cadastro\bin\Debug\Atividade08_Cadastro_Usuarios.exe.config
+C:\Users\vitin\source\repos\Atividade07_Cadastro\bin\Debug\Atividade08_Cadastro_Usuarios.exe
+C:\Users\vitin\source\repos\Atividade07_Cadastro\bin\Debug\Atividade08_Cadastro_Usuarios.pdb
+C:\Users\vitin\source\repos\Atividade07_Cadastro\obj\Debug\Atividade08_Cadastro_Usuarios.exe
+C:\Users\vitin\source\repos\Atividade07_Cadastro\obj\Debug\Atividade08_Cadastro_Usuarios.pdb
