@@ -60,7 +60,7 @@ namespace Atividade07_Cadastro_Usuarios
 
                     if (posicao >= 1 && posicao <= nomes.Count)
                     {
-                        // Quer ouvir uma piada Murray?
+                        
                         Console.WriteLine($"O usuário foi -> Localizado <-");
                         Console.WriteLine($"Nome: {nomes[posicao - 1]} ");
                         Console.ReadKey();
@@ -105,7 +105,7 @@ namespace Atividade07_Cadastro_Usuarios
 
                 if (posicao >= 1 && posicao <= nomes.Count)
                 {
-                    // Please, call me Gus.
+                    
                     nomes.RemoveAt(posicao - 1);
                     Console.WriteLine("Usuário deletado com sucesso...");
                     Console.ReadKey();
@@ -151,7 +151,7 @@ namespace Atividade07_Cadastro_Usuarios
                 if (posicao >= 1 && posicao <= nomes.Count)
                 {
 
-                    // I am the danger.
+                    
                     Console.Write("Insira o novo nome de usuário: ");
                     string nome2 = Console.ReadLine();
                     nomes[posicao - 1] = nome2;
